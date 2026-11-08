@@ -67,9 +67,7 @@ The estimated illumination field is used to correct the original image through f
 
 The correction model is:
 
-$$
-C = \frac{I}{L / \operatorname{mean}(L) + \varepsilon}
-$$
+**C = I / (L / mean(L) + ε)**
 
 Where:
 
