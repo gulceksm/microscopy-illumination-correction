@@ -96,4 +96,4 @@ The project is expected to:
 - Preserve important biological image structures.
 - Identify the strengths and limitations of Gaussian smoothing and polynomial surface fitting.
 - Provide a quantitative comparison of classical illumination correction techniques.
-# microscopy-illumination-correction
+
